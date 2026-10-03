@@ -1,7 +1,7 @@
 import random
 playing = True
 
-rounds=int(input("How many rounds would you like to play?"))
+rounds=int(input("How many rounds would you like to play? "))
 player_score=0
 computer_score=0
 for i in range(rounds):
